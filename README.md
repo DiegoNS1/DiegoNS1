@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um **Programador Front-end** apaixonado por criar soluções web robustas e escaláveis. Com experiência em todo o ciclo de desenvolvimento — front-end — transformo ideias em aplicações que funcionam perfeitamente.
+Sou um **Programador Full Stack** apaixonado por criar soluções web robustas e escaláveis. Com experiência em todo o ciclo de desenvolvimento — front-end a back-end — transformo ideias em aplicações que funcionam perfeitamente.
 
 Acredito que bom código é aquele que é legível, eficiente e resolve problemas reais. Cada linha que escrevo é pensada com propósito.
 
@@ -32,7 +32,7 @@ Acredito que bom código é aquele que é legível, eficiente e resolve problema
 ✅ Criação de **APIs robustas** com Node.js  
 ✅ Implementação de **boas práticas** de código e arquitetura  
 ✅ Otimização de **performance** e **experiência do usuário**  
-✅ Integração de **front-end** com excelência 
+✅ Integração de **front-end a back-end** com excelência 
 
 ---
 
